@@ -58,32 +58,6 @@
 
 ---
 
-## Featured Projects
-
-<p align="left">
-  <a href="https://github.com/zer0xhamid/LogicHunter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0xhamid&repo=LogicHunter&theme=dark&bg_color=0d0d0d&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=3a0000" />
-  </a>
-  <a href="https://github.com/zer0xhamid/LogicHunter_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0xhamid&repo=LogicHunter_v2&theme=dark&bg_color=0d0d0d&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=3a0000" />
-  </a>
-</p>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zer0xhamid&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=3a0000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0xhamid&layout=compact&theme=dark&bg_color=0d0d0d&title_color=8B0000&text_color=ffffff&border_color=3a0000" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zer0xhamid&theme=dark&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&dates=aaaaaa&border=3a0000" />
-</p>
-
----
-
 ## Contact
 
 - LinkedIn: [0xhamid](https://www.linkedin.com/in/0xhamid)
